@@ -1,2 +1,2 @@
-Tarefa 1: Aprender git clone
-Tarefa 2: Aprender git add
+Tarefa 3: Aprender git commit
+Tarefa 4: Aprender git push
